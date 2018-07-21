@@ -1,0 +1,24 @@
+{
+    "name": "wbf/authentication",
+    "description": "You can use multiple user tables for login verification on different consoles",
+    "authors": [
+        {
+            "name": "wangbinfei",
+            "email": "516776383@qq.com"
+        }
+    ],
+    "psr-4": {
+        "Wbf\\Authentication\\": "src/"
+    },
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Wbf\\Authentication\\AuthenticationServiceProvider"
+            ],
+            "aliases": {
+                "WBFA": "Wbf\\Authentication\\Facades\\Authentication"
+            }
+        }
+    }
+}
