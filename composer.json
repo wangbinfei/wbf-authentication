@@ -1,5 +1,5 @@
 {
-    "name": "wbf/authentication",
+    "name": "wbfa/authentication",
     "description": "You can use multiple user tables for login verification on different consoles",
     "authors": [
         {
