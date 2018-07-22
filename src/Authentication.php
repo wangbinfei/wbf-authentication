@@ -6,7 +6,7 @@
  * Time: 18:18
  */
 
-namespace Wbf\Authentication;
+namespace Wbfa\Authentication;
 
 
 class Authentication

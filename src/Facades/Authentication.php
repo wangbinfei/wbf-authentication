@@ -6,11 +6,10 @@
  * Time: 18:24
  */
 
-namespace Wbf\Authentication\Facades;
-
+namespace Wbfa\Authentication\Facades;
 
 use Illuminate\Support\Facades\Facade;
-use Wbf\Authentication\Authentication as AuthenticationSrc;
+use Wbfa\Authentication\Authentication as AuthenticationSrc;
 
 class Authentication extends Facade
 {

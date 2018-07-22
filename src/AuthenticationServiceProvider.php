@@ -1,6 +1,6 @@
 <?php
 
-namespace Wbf\Authentication;
+namespace Wbfa\Authentication;
 
 use Illuminate\Support\ServiceProvider;
 

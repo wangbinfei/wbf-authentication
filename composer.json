@@ -17,10 +17,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Wbf\\Authentication\\AuthenticationServiceProvider"
+                "Wbfa\\Authentication\\AuthenticationServiceProvider"
             ],
             "aliases": {
-                "WBFA": "Wbf\\Authentication\\Facades\\Authentication"
+                "WBFA": "Wbfa\\Authentication\\Facades\\Authentication"
             }
         }
     }
