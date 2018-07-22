@@ -19,4 +19,9 @@ class Authentication
     {
         return view('wbfa::index');
     }
+
+    public function test2()
+    {
+        
+    }
 }
